@@ -12,7 +12,7 @@ function DataFetching() {
     
     return (
         <div>
-            
+            <p>Suresh</p>
         </div>
     )
 }
